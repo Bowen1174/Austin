@@ -7,5 +7,13 @@ puts markdown.to_html
 ```
 I love dogs!
 
->They are fluffy
->They are a mans bestfriend.
+>They are fluffy and
+>they are a mans bestfriend.
+
+1. ONE
+2. TWO
+3. THREE
+
+  * Milk
+  * Eggs
+  * Bread
